@@ -6,6 +6,8 @@
  This repository contains Java test automation framework prototype for [Rozetka](https://rozetka.com.ua/). 
  
  The project covers the next test cases:
+ 
+ 1. Find and order white gymnastic footwear for girls (35 EU size).
   
  ## 1. Configuration details:
  The project uses **TestNG**  testing framework and **Allure** test report framework to create test execution reports.
